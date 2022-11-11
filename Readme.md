@@ -10,7 +10,7 @@ Este é um projeto piloto mantido pelo <a href="https://agriwin.com.br">Agriwin<
 > **Se deseja trabalhar conosco, mostre seu diferencial estudando e implementando este projeto**. Estamos a disposição para ajudar no que precisar!
 
 <!--### Porque GRAILS?
-Ainda esta na dúvida porque iniciar este estudo no framework Grails, vai aí alguns motivos: -->
+Ainda está na dúvida porque iniciar este estudo no framework Grails, vai aí alguns motivos: -->
 
 ### 💻 Pré-requisitos
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
